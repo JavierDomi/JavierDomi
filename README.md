@@ -67,12 +67,13 @@ I actively work on advanced cybersecurity projects, including:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=javierdominguez&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierdominguez&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=javierdominguez&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=javierdominguez&theme=radical&row=1&margin-w=15" alt="GitHub Trophies" />
 </p>
+
 
 ---
 
