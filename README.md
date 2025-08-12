@@ -98,7 +98,6 @@ Me gusta desarrollar sistemas seguros, investigar tecnologías de bajo nivel com
 
 - **LinkedIn:** [Javier Domínguez Fernández](https://www.linkedin.com/in/javier-domínguez-fernandez/)  
 - **Email:** javi.dominguez.ib@gmail.com  
-- **GitHub:** [YourGitHubUsername](https://github.com/YourGitHubUsername)  
 - **HackTheBox:** *(Available upon request)*  
 
 ---
