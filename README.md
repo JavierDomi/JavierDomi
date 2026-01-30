@@ -64,36 +64,6 @@ Me gusta desarrollar sistemas seguros, investigar tecnologías de bajo nivel com
 
 ---
 
-## 💼 Professional Experience | Experiencia Profesional
-
-| Period | Role | Company | Key Contributions |
-|--------|------|---------|-------------------|
-| Apr 2024 – Jun 2024 | Software Developer Intern | NEORIS | Developed REST APIs with Java Spring, implemented batch processing, improved debugging/testing workflows |
-| Jan 2024 – Mar 2024 | Technical Translator (Aviation) | Entry Point North España | Translated ATSEP technical courses EN→ES, ensured accuracy in aviation terminology |
-| May 2022 – Jan 2024 | Aviation English Teacher | Entry Point North España | Taught specialized English to air traffic controllers, curriculum design, leadership in English department |
-| Apr 2023 – May 2023 | Pseudopilot Simulator Trainer | Entry Point North España | Designed and delivered ATC simulation scenarios |
-
----
-
-## 🎓 Education & Certifications | Educación y Certificaciones
-
-- **BSc in Software Engineering** — U-Tad (2024–2027)  
-- **Higher National Diploma in Cross-platform App Development (DAM)** — Universidad Europea (2022–2024)  
-
-**Certifications:**
-- Foundation Level Threat Intelligence Analyst — arcX (2025)  
-- Coming soon
-
----
-
-## 🎯 Cybersecurity Activities | Actividades de Ciberseguridad
-
-- Active **HackTheBox** user and CTF participant  
-- RF & IoT security research  
-- Wi-Fi packet injection and network penetration testing (ethical & controlled environments)  
-
----
-
 ## 📬 Contact & Links | Contacto y Enlaces
 
 - **LinkedIn:** [Javier Domínguez Fernández](https://www.linkedin.com/in/javier-domínguez-fernandez/)  
